@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BreathFirstSearch[BFS]\\BreathFirstSearch[BFS]",
+    "\\DepthFirstSearch[DFS]",
+    "\\DepthFirstSearch[DFS]\\DepthFirstSearch"
   ],
+  "SelectedNode": "\\DepthFirstSearch[DFS]\\DepthFirstSearch\\dfs.cpp",
   "PreviewInSolutionExplorer": false
 }
