@@ -1,0 +1,4 @@
+﻿  2751.cpp
+C:\Users\cdnwe\OneDrive\바탕 화면\[C]Algorithm\AlgorithmTest\AlgorithmTest\2751.cpp(40,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\cdnwe\OneDrive\바탕 화면\[C]Algorithm\AlgorithmTest\AlgorithmTest\2751.cpp(43,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  AlgorithmTest.vcxproj -> C:\Users\cdnwe\OneDrive\바탕 화면\[C]Algorithm\AlgorithmTest\x64\Debug\AlgorithmTest.exe

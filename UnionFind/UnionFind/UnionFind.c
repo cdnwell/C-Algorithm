@@ -59,8 +59,12 @@ int main(void) {
 	//findParent를 이용해서 1과 5가 같은 그래프에 속해있는지 확인
 	//1과 5는 다른 그래프에 속해있다.
 	printf("1과 5는 연결되어 있나요? %d\n", findParent(parent, 1, 5));
+	printf("연결된 값 [1] : %d\n", getParent(parent, 1));
+	printf("연결된 값 [5] : %d\n", getParent(parent, 5));
 	unionParent(parent, 1, 5);
 	printf("1과 5는 연결되어 있나요? %d\n", findParent(parent, 1, 5));
+	printf("연결된 값 [1] : %d\n", getParent(parent, 1));
+	printf("연결된 값 [5] : %d\n", getParent(parent, 5));
 
 	return 0;
 }
